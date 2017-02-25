@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    <string name="restaurant_name">Restaurant Obecnina</string>
+    <string name="address">Dětmarovice 1201, 73571, Czech republic</string>
+    <string name="phone">+420 724 212 020</string>
+    <string name="hours">Monday to Sunday 14:00 – 23:00</string>
+    <string name="email">RestaurantObecnina@gmail.com</string>
+</resources>

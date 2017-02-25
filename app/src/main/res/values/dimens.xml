@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="space">16dp</dimen>
+    <dimen name="space_icon">16dp</dimen>
+    <dimen name="space_text">8dp</dimen>
+    <dimen name="info_text_size">14sp</dimen>
+    <dimen name="title_text_size">24sp</dimen>
+</resources>
